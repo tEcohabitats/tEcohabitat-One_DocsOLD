@@ -76,7 +76,16 @@ tEcoHabitat will integrate advanced technologies in automation, renewable energy
 ### 3.8 Social & Community Spaces  
 - **Private living units (~150 rooms).**  
 - **Communal areas:** dining, recreation, learning.  
-- **Requirement:** Foster social cohesion while ensuring personal privacy.  
+- **Requirement:** Foster social cohesion while ensuring personal privacy.
+
+- ### 3.9 Transportation & Circulation
+- **Internal pathways:** Pedestrian-first circulation with separate bicycle lanes  
+- **Parking:** Minimal, primarily for community vehicles, electric bicycles, and shared EVs  
+- **Electric aerial transport:**  
+  - Drone or small helicopter for emergency, transport, or delivery purposes  
+  - Must run on electricity only, with dedicated charging stations  
+  - Integration with habitat’s microgrid for sustainable energy supply  
+- **Non-applicable:** Large-scale vehicle drop-offs, extensive guest parking  
 
 ---
 
@@ -114,6 +123,7 @@ tEcoHabitat will integrate advanced technologies in automation, renewable energy
 ## 7. Conclusion  
 
 tEcoHabitat is not just a building — it is a **living system**. This requirements specification sets the foundation, while recognizing that many aspects must be **collaboratively refined** with experts, volunteers, and innovators. The ultimate goal is to design **a blueprint for future living** that protects both humanity and nature.  
+
 
 
 
