@@ -1,3 +1,4 @@
+![This is an alt text.](/assets/Habitat3 esquema.png "This is a sample image.")
 Modificado pelo utilizador de text
 # Requirements Specification Document  
 **Project:** tEcoHabitat-One 
@@ -113,4 +114,5 @@ tEcoHabitat will integrate advanced technologies in automation, renewable energy
 ## 7. Conclusion  
 
 tEcoHabitat is not just a building — it is a **living system**. This requirements specification sets the foundation, while recognizing that many aspects must be **collaboratively refined** with experts, volunteers, and innovators. The ultimate goal is to design **a blueprint for future living** that protects both humanity and nature.  
+
 
