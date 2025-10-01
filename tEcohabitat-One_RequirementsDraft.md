@@ -78,7 +78,7 @@ tEcoHabitat will integrate advanced technologies in automation, renewable energy
 - **Communal areas:** dining, recreation, learning.  
 - **Requirement:** Foster social cohesion while ensuring personal privacy.
 
-- ### 3.9 Transportation & Circulation
+### 3.9 Transportation & Circulation
 - **Internal pathways:** Pedestrian-first circulation with separate bicycle lanes  
 - **Parking:** Minimal, primarily for community vehicles, electric bicycles, and shared EVs  
 - **Electric aerial transport:**  
@@ -123,6 +123,7 @@ tEcoHabitat will integrate advanced technologies in automation, renewable energy
 ## 7. Conclusion  
 
 tEcoHabitat is not just a building — it is a **living system**. This requirements specification sets the foundation, while recognizing that many aspects must be **collaboratively refined** with experts, volunteers, and innovators. The ultimate goal is to design **a blueprint for future living** that protects both humanity and nature.  
+
 
 
 
