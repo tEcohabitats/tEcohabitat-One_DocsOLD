@@ -1,4 +1,3 @@
-Modificado pelo utilizador de text
 # Requirements Specification Document  
 **Project:** tEcoHabitat-One 
 **Version:** 1.0  
@@ -98,3 +97,4 @@ tEcoHabitat is not just a building — it is a **living system**. This requireme
 
 
 ![This is an alt text.](/assets/Habitat3esquema.png "This is a sample image.")
+
