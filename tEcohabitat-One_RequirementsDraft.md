@@ -10,7 +10,7 @@
 The purpose of this document is to define the requirements for the design, development, and implementation of **tEcoHabitat-One**, the first tEcoHabitat— a fully automated, self-sufficient, human-scale habitat designed to provide high-quality living while preserving nature and minimizing ecological impact.  
 
 ### 1.2 Scope  
-tEcoHabitat will integrate advanced technologies in automation, renewable energy, water recycling, food production, and waste management to create a **closed-loop community** of approximately 150 people. The habitat is designed to be **scalable** and **replicable**, eventually forming a network of sustainable communities worldwide.  
+tEcoHabitat-One will integrate advanced technologies in automation, renewable energy, water recycling, food production, and waste management to create a **closed-loop community** of approximately 150 people. The habitat is designed to be **scalable** and **replicable**, eventually forming a network of sustainable communities worldwide.  
 
 ---
 
@@ -93,8 +93,9 @@ tEcoHabitat will integrate advanced technologies in automation, renewable energy
 
 ## 4. Conclusion  
 
-tEcoHabitat is not just a building — it is a **living system**. This requirements specification sets the foundation, while recognizing that many aspects must be **collaboratively refined** with experts, volunteers, and innovators. The ultimate goal is to design **a blueprint for future living** that protects both humanity and nature.  
+tEcoHabitat-One is not just a building — it is a **living system**. This requirements specification sets the foundation, while recognizing that many aspects must be **collaboratively refined** with experts, volunteers, and innovators. The ultimate goal is to design **a blueprint for future living** that protects both humanity and nature.  
 
 
 ![This is an alt text.](/assets/Habitat3esquema.png "This is a sample image.")
+
 
